@@ -1,7 +1,0 @@
-master
-ali
-master2 - ali2 ali2
-<<<<<<< HEAD
-ali
-ali3 master3
-alijon
