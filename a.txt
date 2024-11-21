@@ -1,3 +1,7 @@
 master
 ali
+<<<<<<< HEAD
 master2 - ali2
+=======
+ali2
+>>>>>>> ali
