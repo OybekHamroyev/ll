@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Testing47Application {
 
     public static void main(String[] args) {
+        //salom
         SpringApplication.run(Testing47Application.class, args);
     }
 
