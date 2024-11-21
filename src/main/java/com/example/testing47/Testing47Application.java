@@ -9,6 +9,7 @@ public class Testing47Application {
     public static void main(String[] args) {
         //salom
         //gitdan bu
+        //ali
         SpringApplication.run(Testing47Application.class, args);
     }
 
