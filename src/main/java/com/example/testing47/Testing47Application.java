@@ -10,6 +10,7 @@ public class Testing47Application {
         //salom
         //gitdan bu
         SpringApplication.run(Testing47Application.class, args);
+        //master
     }
 
 }
