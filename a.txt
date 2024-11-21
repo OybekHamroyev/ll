@@ -1,5 +1,1 @@
 master
-ali
-master2 - ali2 ali2
-merge bo'ldi
-master33333333333
